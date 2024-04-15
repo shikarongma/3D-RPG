@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b45a88ce8e2445648a14b1b8e63478ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Camera: {instanceID: 0}
+  - healthUIPrefab: {instanceID: 0}
+  - barPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
